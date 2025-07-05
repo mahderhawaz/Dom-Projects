@@ -1,4 +1,4 @@
-let timerDisplay = document.getElementById("timer");
+let  = document.getElementById("timer");
 let playBtn = document.getElementById("play");
 let resetBtn = document.getElementById("reset");
 
